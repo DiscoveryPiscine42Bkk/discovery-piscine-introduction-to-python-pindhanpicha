@@ -1,4 +1,4 @@
-#1/urs/bin/python3
+#!/urs/bin/python3
 print ("Enter a number")
 number = int(input())
 for count in range(0,10):
