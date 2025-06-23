@@ -7,4 +7,4 @@ while x <= 10:
         print(x * y, end = " ")
         y += 1
     print()
-    x += 1  
+    x += 1   

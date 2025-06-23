@@ -4,3 +4,5 @@ filtered_array = [num for num in original_array if num > 5]
 new_array = [num+2 for num in filtered_array]
 print(", ".join(str(num) for num in filtered_array))
 print(new_array)
+
+fix please

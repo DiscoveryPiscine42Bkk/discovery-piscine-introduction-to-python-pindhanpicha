@@ -1,6 +1,4 @@
-#1/urs/bin/python
+#1/urs/bin/python3
 response = input("What you gotta say? ")
-while True:
-    answer = input("I got that! Anything else: ")
-    if answer == "STOP":
-        break
+while not response == "STOP":
+    response = input("I got it! Anything else?")
