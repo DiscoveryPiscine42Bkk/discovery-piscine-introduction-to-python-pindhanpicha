@@ -1,10 +1,10 @@
 #!/urs/bin/python3
-x = 0
-while x <= 10:
-    print(f"Table de (x):"), end = " ") 
-    y = 0 
-    while y <= 10:
-        print(x * y, end = " ")
-        y += 1
+i = 0
+while i <= 10:
+    print((f"Table de {i}:"), end = " ") 
+    j = 0 
+    while j <= 10:
+        print(i * j, end = " ")
+        j += 1
     print()
-    x += 1   
+    i += 1   
