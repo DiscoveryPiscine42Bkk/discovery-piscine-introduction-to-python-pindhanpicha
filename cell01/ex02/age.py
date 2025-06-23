@@ -1,3 +1,4 @@
 Age = 19 
-my_age = int(Age) + 42
+plus = 42
+my_age = int(Age) + plus
 print(my_age)
